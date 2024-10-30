@@ -25,6 +25,7 @@ $ - Dollar
 - 🌱 
 - 😄 
 - ⚡ 
+[CLI Commands](docs/cli.md)
 
 <!---
 TTosorno/TTosorno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
