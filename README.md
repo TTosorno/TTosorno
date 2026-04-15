@@ -1,6 +1,5 @@
 # Intro
-GBC comp-1238 course- Intro to data managment
-Thomas
+Thomas Osorno GBC student 
 # Rows
 ! - exclamation
 @ - At
